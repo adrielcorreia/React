@@ -5,7 +5,7 @@ Aqui mostrarei como é o passo-passo de instalação do React, desde instalaçã
 
 ## Instalação
 
-Criar uma pasta, abrir com o VsCode ou qualquer outra IDE, e digitar os comandos seguinte:
+Criar uma pasta, abrir com o VsCode ou qualquer outra IDE, e digitar os comandos seguintes no terminal:
 
 ```bash
   npx create-react-app myapp
